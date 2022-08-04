@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\bin\Debug\net6.0\return statement.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\bin\Debug\net6.0\return statement.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\bin\Debug\net6.0\return statement.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\bin\Debug\net6.0\return statement.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\bin\Debug\net6.0\return statement.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\refint\return statement.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\return statement.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\return statement\obj\Debug\net6.0\ref\return statement.dll
