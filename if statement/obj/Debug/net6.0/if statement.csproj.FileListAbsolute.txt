@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\bin\Debug\net6.0\if statement.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\bin\Debug\net6.0\if statement.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\bin\Debug\net6.0\if statement.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\bin\Debug\net6.0\if statement.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\bin\Debug\net6.0\if statement.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\refint\if statement.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\if statement.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\if statement\obj\Debug\net6.0\ref\if statement.dll
