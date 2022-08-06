@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\bin\Debug\net6.0\building a better calculator.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\bin\Debug\net6.0\building a better calculator.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\bin\Debug\net6.0\building a better calculator.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\bin\Debug\net6.0\building a better calculator.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\bin\Debug\net6.0\building a better calculator.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\refint\building a better calculator.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\building a better calculator.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a better calculator\obj\Debug\net6.0\ref\building a better calculator.dll
