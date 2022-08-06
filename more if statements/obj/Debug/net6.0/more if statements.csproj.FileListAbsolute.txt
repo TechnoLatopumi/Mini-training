@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\bin\Debug\net6.0\more if statements.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\bin\Debug\net6.0\more if statements.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\bin\Debug\net6.0\more if statements.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\bin\Debug\net6.0\more if statements.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\bin\Debug\net6.0\more if statements.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\refint\more if statements.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\more if statements.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\more if statements\obj\Debug\net6.0\ref\more if statements.dll
