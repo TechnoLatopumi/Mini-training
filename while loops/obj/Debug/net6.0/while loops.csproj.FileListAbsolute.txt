@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\bin\Debug\net6.0\while loops.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\bin\Debug\net6.0\while loops.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\bin\Debug\net6.0\while loops.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\bin\Debug\net6.0\while loops.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\bin\Debug\net6.0\while loops.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\refint\while loops.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\while loops.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\while loops\obj\Debug\net6.0\ref\while loops.dll
