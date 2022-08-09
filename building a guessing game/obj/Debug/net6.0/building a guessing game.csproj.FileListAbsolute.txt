@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\bin\Debug\net6.0\building a guessing game.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\bin\Debug\net6.0\building a guessing game.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\bin\Debug\net6.0\building a guessing game.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\bin\Debug\net6.0\building a guessing game.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\bin\Debug\net6.0\building a guessing game.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\refint\building a guessing game.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\building a guessing game.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building a guessing game\obj\Debug\net6.0\ref\building a guessing game.dll
