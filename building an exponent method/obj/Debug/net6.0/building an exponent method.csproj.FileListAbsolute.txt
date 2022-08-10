@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\bin\Debug\net6.0\building an exponent method.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\bin\Debug\net6.0\building an exponent method.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\bin\Debug\net6.0\building an exponent method.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\bin\Debug\net6.0\building an exponent method.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\bin\Debug\net6.0\building an exponent method.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\refint\building an exponent method.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\building an exponent method.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\building an exponent method\obj\Debug\net6.0\ref\building an exponent method.dll
