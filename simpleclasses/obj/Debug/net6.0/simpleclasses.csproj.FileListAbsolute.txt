@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\bin\Debug\net6.0\simpleclasses.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\bin\Debug\net6.0\simpleclasses.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\bin\Debug\net6.0\simpleclasses.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\bin\Debug\net6.0\simpleclasses.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\bin\Debug\net6.0\simpleclasses.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\refint\simpleclasses.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\simpleclasses.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\simpleclasses\obj\Debug\net6.0\ref\simpleclasses.dll
