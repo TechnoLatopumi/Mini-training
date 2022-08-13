@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\bin\Debug\net6.0\static methods and classes.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\bin\Debug\net6.0\static methods and classes.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\bin\Debug\net6.0\static methods and classes.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\bin\Debug\net6.0\static methods and classes.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\bin\Debug\net6.0\static methods and classes.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\refint\static methods and classes.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\static methods and classes.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static methods and classes\obj\Debug\net6.0\ref\static methods and classes.dll
