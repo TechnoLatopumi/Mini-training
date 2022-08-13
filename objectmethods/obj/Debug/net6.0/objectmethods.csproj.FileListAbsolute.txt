@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\bin\Debug\net6.0\objectmethods.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\bin\Debug\net6.0\objectmethods.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\bin\Debug\net6.0\objectmethods.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\bin\Debug\net6.0\objectmethods.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\bin\Debug\net6.0\objectmethods.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\refint\objectmethods.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\objectmethods.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\objectmethods\obj\Debug\net6.0\ref\objectmethods.dll
