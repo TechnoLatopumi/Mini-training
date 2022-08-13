@@ -1,0 +1,15 @@
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\bin\Debug\net6.0\static class atribute.exe
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\bin\Debug\net6.0\static class atribute.deps.json
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\bin\Debug\net6.0\static class atribute.runtimeconfig.json
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\bin\Debug\net6.0\static class atribute.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\bin\Debug\net6.0\static class atribute.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.csproj.AssemblyReference.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.AssemblyInfoInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.AssemblyInfo.cs
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.csproj.CoreCompileInputs.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\refint\static class atribute.dll
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.pdb
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\static class atribute.genruntimeconfig.cache
+C:\Users\Tegar\Desktop\Github-Project\C#\static class atribute\obj\Debug\net6.0\ref\static class atribute.dll
